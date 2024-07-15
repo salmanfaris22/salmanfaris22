@@ -3,13 +3,11 @@
 ### 🔥 &nbsp; My Stats :
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahlyab&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![](./profile-3d-contrib/profile-night-green.svg)
-<!--
-<h1>HacktoberFest 2023 - Holopin Board</h1>
 
-[![An image of @ahlyab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahlyab)](https://holopin.io/@ahlyab) -->
+
+
+
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/salman567633800?theme=dark)
@@ -45,5 +43,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanfaris22&" alt="salmanfaris22" /></p>
 
-
+![](./profile-3d-contrib/profile-night-green.svg)
 
