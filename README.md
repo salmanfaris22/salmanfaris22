@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" alt="salmanfaris22" /> </p>
 
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/salman567633800?theme=dark)
+
+
+
 - 🔭 I’m currently working on **E-Commerce**
 
 - 🌱 I’m currently learning **React**
@@ -14,7 +19,6 @@
 - 📫 How to reach me **salmanfariskalm@gmail.com**
 
 - ⚡ Fun fact **I Think I'm Funny**
-![Leetcode Stats](https://leetcard.jacoblin.cool/salman567633800?theme=dark)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/salman faris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salman faris" height="30" width="40" /></a>
