@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Salman Faris</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
+### 🔥 &nbsp; My Stats :
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ahlyab&theme=dark&background=000000)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats-gamma-ten.vercel.app?user=Ahlyab&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" alt="salmanfaris22" /> </p>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahlyab&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![](./profile-3d-contrib/profile-night-green.svg)
+<!--
+<h1>HacktoberFest 2023 - Holopin Board</h1>
+
+[![An image of @ahlyab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahlyab)](https://holopin.io/@ahlyab) -->
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/salman567633800?theme=dark)
@@ -38,14 +47,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanfaris22&" alt="salmanfaris22" /></p>
 
 
-### 🔥 &nbsp; My Stats :
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ahlyab&theme=dark&background=000000)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://github-readme-streak-stats-gamma-ten.vercel.app?user=Ahlyab&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahlyab&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
-
-![](./profile-3d-contrib/profile-night-green.svg)
-<!--
-<h1>HacktoberFest 2023 - Holopin Board</h1>
-
-[![An image of @ahlyab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahlyab)](https://holopin.io/@ahlyab) -->
