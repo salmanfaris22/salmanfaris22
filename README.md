@@ -36,3 +36,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmanfaris22&show_icons=true&locale=en" alt="salmanfaris22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanfaris22&" alt="salmanfaris22" /></p>
+
+
+### 🔥 &nbsp; My Stats :
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ahlyab&theme=dark&background=000000)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats-gamma-ten.vercel.app?user=Ahlyab&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahlyab&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![](./profile-3d-contrib/profile-night-green.svg)
+<!--
+<h1>HacktoberFest 2023 - Holopin Board</h1>
+
+[![An image of @ahlyab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahlyab)](https://holopin.io/@ahlyab) -->
