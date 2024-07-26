@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salman Faris</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate FullStack developer</h3>
 ### 🔥 &nbsp; My Stats :
 
 
