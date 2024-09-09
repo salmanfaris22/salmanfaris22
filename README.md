@@ -4,19 +4,15 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
-    <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="62" height="62" />
       <br>REST API
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
+   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="62" height="62" />
       <br>Redux Toolkit
     </td>
@@ -31,6 +27,14 @@
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
       <br>Redis
+    </td>
+     <td>
+      <img src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/effd598b-922b-42ad-b520-189f1aec55fd" alt="icon" width="65" height="65" />
+      <br>Node JS
+    </td>
+    <td>
+      <img  src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/55b5a12d-c566-49bf-818e-6a6735284350" alt="icon" width="65" height="65" />
+      <br>ExpressJS
     </td>
   </tr>
   <tr>
@@ -109,11 +113,6 @@
        <img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/0ba3427b-823d-417a-b363-ba71a8bf708d" alt="icon" width="62" height="62"  />
       <br>Agora
     </td>
-    </td>
-      <td align="center" width="96">
-       <img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/5eeac37f-2378-4d06-9399-29dd46554ce9" alt="icon" width="62" height="62"  />
-      <br>PyTest
-    </td>
  </tr>
   <tr>
      <td>
@@ -127,14 +126,6 @@
      <td>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" alt="icon" width="65" height="65" />
       <br>Vue JS
-    </td>
-    <td>
-      <img src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/effd598b-922b-42ad-b520-189f1aec55fd" alt="icon" width="65" height="65" />
-      <br>Node JS
-    </td>
-    <td>
-      <img  src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/55b5a12d-c566-49bf-818e-6a6735284350" alt="icon" width="65" height="65" />
-      <br>ExpressJS
     </td>
     <td>
       <img  src="https://github.com/user-attachments/assets/8b8130b9-04b4-420d-ad0e-cea85b35136a" alt="icon" width="65" height="65" />
