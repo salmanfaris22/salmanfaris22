@@ -65,6 +65,10 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
+         <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" alt="icon" width="65" height="65" />
+      <br>Vue JS
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
@@ -122,10 +126,6 @@
     <td>
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
-    </td>
-     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" alt="icon" width="65" height="65" />
-      <br>Vue JS
     </td>
     <td>
       <img  src="https://github.com/user-attachments/assets/8b8130b9-04b4-420d-ad0e-cea85b35136a" alt="icon" width="65" height="65" />
