@@ -17,8 +17,8 @@
       <br>Redux Toolkit
     </td>
     <td align="center" width="96">
-        <img src="[https://skillicons.dev/icons?i=postgres](https://miro.medium.com/v2/resize:fit:500/1*lSUb1T4YW1td0UskwsGZ1w.gif)" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+        <img src="https://skillicons.dev/icons?i=postgres](https://miro.medium.com/v2/resize:fit:500/1*lSUb1T4YW1td0UskwsGZ1w.gif" width="48" height="48" alt="PostgreSQL" />
+      <br>Golang
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
