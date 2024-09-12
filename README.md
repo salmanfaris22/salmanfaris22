@@ -21,28 +21,6 @@
       <br>Golang
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-      <br>Redis
-    </td>
-     <td>
-      <img src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/effd598b-922b-42ad-b520-189f1aec55fd" alt="icon" width="65" height="65" />
-      <br>Node JS
-    </td>
-    <td>
-      <img  src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/55b5a12d-c566-49bf-818e-6a6735284350" alt="icon" width="65" height="65" />
-      <br>ExpressJS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
@@ -62,10 +40,6 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
-         <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" alt="icon" width="65" height="65" />
-      <br>Vue JS
-    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
@@ -76,18 +50,6 @@
     </td>
   </tr>
  <tr>
-      <td align="center" width="96">
-       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-      <br>Postman
-    </td>
-      <td align="center" width="96">
-       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-      <br>Figma
-    </td>
-    </td>
-      <td align="center" width="96">
-       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-      <br>SQLite
     </td>
     </td>
       <td align="center" width="96">
@@ -100,37 +62,9 @@
       <br>Prettier
     </td>
     </td>
-      <td align="center" width="96">
-       <img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/b7ea9dae-7907-48b2-a3fb-0673f4eff363" alt="icon" width="62" height="62"  />
-      <br>Swagger API
-    </td>
-    </td>
-      <td align="center" width="96">
-       <img src="http://jwt.io/img/icon.svg" alt="icon" width="62" height="62"  />
-      <br>JWT
-    </td>
-    </td>
-      <td align="center" width="96">
-       <img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/0ba3427b-823d-417a-b363-ba71a8bf708d" alt="icon" width="62" height="62"  />
-      <br>Agora
     </td>
  </tr>
-  <tr>
-     <td>
-      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
-    </td>
-    <td>
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td>
-      <img  src="https://github.com/user-attachments/assets/8b8130b9-04b4-420d-ad0e-cea85b35136a" alt="icon" width="65" height="65" />
-      <br>Sequelize
-    </td>
 
-    
-  </tr>
 </table>
 
 <h1 align="center">Hi 👋, I'm Salman Faris</h1>
