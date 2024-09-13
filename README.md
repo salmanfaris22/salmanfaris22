@@ -46,12 +46,13 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
-    <td align="center" width="96">
+   
+  </tr>
+ <tr>
+   <td align="center" width="96">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  /> 
       <br>Material Ui
     </td>
-  </tr>
- <tr>
     </td>
     </td>
       <td align="center" width="96">
