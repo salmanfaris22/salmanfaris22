@@ -65,7 +65,7 @@
     </td>
      </td>
       <td align="center" width="96">
-       <img src="https://w7.pngwing.com/pngs/992/738/png-transparent-jira-hd-logo-thumbnail.png" alt="icon" width="62" height="62" />
+       <img src="https://w7.pngwing.com/pngs/935/1018/png-transparent-jira-cloud-macos-bigsur-icon-thumbnail.png" alt="icon" width="62" height="62" />
       <br>JIRA
     </td>
     </td>
