@@ -6,6 +6,10 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
+   <td align="center" width="96">
+        <img src="[https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65](https://raw.githubusercontent.com/gin-gonic/logo/master/color.png)" />
+      <br>Gin
+    </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
@@ -21,10 +25,6 @@
     <td align="center" width="96">
         <img src="https://miro.medium.com/v2/resize:fit:500/1*lSUb1T4YW1td0UskwsGZ1w.gif" width="48" height="48" alt="PostgreSQL" />
       <br>Golang
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
     </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
@@ -53,6 +53,10 @@
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  /> 
       <br>Material Ui
     </td>
+    </td>
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
     </td>
     </td>
       <td align="center" width="96">
