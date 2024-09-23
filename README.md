@@ -74,9 +74,9 @@
       <br>Prettier
     </td>
       </td>
-      <td align="center" width="96">
-       <img src="https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo-thumbnail.png" alt="icon" width="62" height="62" />
-      <br>PostMan
+     <td align="center" width="96">
+       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+      <br>Postman
     </td>
     </td>
     </td>
