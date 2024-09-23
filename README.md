@@ -7,7 +7,7 @@
       <br>React
     </td>
    <td align="center" width="96">
-        <img src="[https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65](https://raw.githubusercontent.com/gin-gonic/logo/master/color.png)" />
+        <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="icon" width="65" height="65](https://raw.githubusercontent.com/gin-gonic/logo/master/color.png)" />
       <br>Gin
     </td>
       <td align="center" width="96">
