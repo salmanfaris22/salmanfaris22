@@ -43,11 +43,6 @@
       <br>Bootstrap
     </td>
  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-   
   </tr>
    <td align="center" width="96">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  /> 
