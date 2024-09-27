@@ -117,14 +117,12 @@
 <a href="https://www.leetcode.com/salman faris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salman faris" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; align-items: flex-start; align: center">
 
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/salman567633800?theme=dark)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanfaris22&show_icons=true&locale=en&layout=compact" alt="salmanfaris22" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanfaris2&show_icons=true&locale=en&layout=compact" alt="salmanfaris22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmanfaris22&show_icons=true&locale=en" alt="salmanfaris22" /></p>
 
