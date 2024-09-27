@@ -77,6 +77,14 @@
        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
       <br>Postman
     </td>
+ <td align="center" width="96">
+       <img src="http://jwt.io/img/icon.svg" alt="icon" width="62" height="62"  />
+      <br>JWT
+    </td>
+  <td align="center" width="96">
+       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+      <br>Figma
+    </td>
     </td>
     </td>
  </tr>
