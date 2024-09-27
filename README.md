@@ -122,7 +122,7 @@
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/salman567633800?theme=dark)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanfaris2&show_icons=true&locale=en&layout=compact" alt="salmanfaris22" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanfaris22&show_icons=true&locale=en&layout=compact" alt="salmanfaris22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmanfaris22&show_icons=true&locale=en" alt="salmanfaris22" /></p>
 
