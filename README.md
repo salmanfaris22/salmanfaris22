@@ -14,7 +14,7 @@
   />
 </picture>
 
-github-profile/managing-your-profile-readme)
+
  <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
 <table align="center">
   <tr>
