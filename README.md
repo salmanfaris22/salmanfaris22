@@ -153,5 +153,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanfaris22&" alt="salmanfaris22" /></p>
 
 
-![Footer](https://github.com/anasmalikp/anasmalikp/raw/main/footer.svg)
 
