@@ -123,7 +123,7 @@
 
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/salman567633800?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/salman567633800?font=patrick_hand)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmanfaris22&show_icons=true&locale=en" alt="salmanfaris22" /></p>
