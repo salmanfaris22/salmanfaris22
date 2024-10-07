@@ -15,15 +15,6 @@
 
 ### 🛠️ Technologies & Tools I Work With:
 
-| Frontend Technologies | Backend Technologies | Tools |
-|----------------------|---------------------|-------|
-| ![React](https://techstack-generator.vercel.app/react-icon.svg) **React** | ![Golang](https://miro.medium.com/v2/resize:fit:500/1*lSUb1T4YW1td0UskwsGZ1w.gif) **Golang** | ![Git](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png) **Git** |
-| ![JavaScript](https://techstack-generator.vercel.app/js-icon.svg) **JavaScript** | ![Gin](https://raw.githubusercontent.com/gin-gonic/logo/master/color.png) **Gin Framework** | ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) **Postman** |
-| ![HTML5](https://skillicons.dev/icons?i=html) **HTML5** | | ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) **Figma** |
-| ![CSS](https://skillicons.dev/icons?i=css) **CSS** | | ![JIRA](https://w7.pngwing.com/pngs/935/1018/png-transparent-jira-cloud-macos-bigsur-icon-thumbnail.png) **JIRA** |
-| ![Tailwind](https://skillicons.dev/icons?i=tailwind) **Tailwind CSS** | | ![Prettier](https://techstack-generator.vercel.app/prettier-icon.svg) **Prettier** |
-
-
 <table align="center">
   <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" /><br>React</td>
