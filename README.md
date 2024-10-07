@@ -1,3 +1,5 @@
+ <img src="img.webp" alt="Description" class="inline-image">
+
 # Hi 👋, I'm Salman Faris
 
 ### A passionate FullStack developer
