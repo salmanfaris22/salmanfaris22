@@ -1,4 +1,5 @@
  <img src="img.webp" alt="Description" class="inline-image">
+<style>
 
 # Hi 👋, I'm Salman Faris
 
@@ -14,7 +15,6 @@
 - ⚡ Fun fact: **I think I'm funny**, and I promise my code is less of a joke than I am!
 
 ### 🛠️ Technologies & Tools I Work With:
-<style>
   table {
     border-collapse: collapse;
     width: 100%;
