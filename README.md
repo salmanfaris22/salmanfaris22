@@ -14,7 +14,43 @@
 - ⚡ Fun fact: **I think I'm funny**, and I promise my code is less of a joke than I am!
 
 ### 🛠️ Technologies & Tools I Work With:
-
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    box-shadow: 0 0 10px rgba(255, 0, 0, 0.5); /* Adding a shadow effect */
+  }
+  td {
+    border: 2px solid red;
+    padding: 15px;
+    backdrop-filter: blur(5px); /* Blurring the background */
+  }
+</style>
+<table align="center" style="border: 2px solid red; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="border: 2px solid red; padding: 10px;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" /><br>React</td>
+    <td align="center" style="border: 2px solid red; padding: 10px;"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="65" /><br>Gin</td>
+    <td align="center" style="border: 2px solid red; padding: 10px;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" /><br>JavaScript</td>
+    <td align="center" style="border: 2px solid red; padding: 10px;"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="62" /><br>REST API</td>
+    <td align="center" style="border: 2px solid red; padding: 10px;"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux Toolkit" width="62" /><br>Redux Toolkit</td>
+    <td align="center" style="border: 2px solid red; padding: 10px;"><img src="https://miro.medium.com/v2/resize:fit:500/1*lSUb1T4YW1td0UskwsGZ1w.gif" alt="Golang" width="48" /><br>Golang</td>
+    <td align="center" style="border: 2px solid red; padding: 10px;"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" /><br>Git</td>
+    <td align="center" style="border: 2px solid red; padding: 10px;"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" /><br>HTML5</td>
+    <td align="center" style="border: 2px solid red; padding: 10px;"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" /><br>CSS</td>
+    <td align="center" style="border: 2px solid red; padding: 10px;"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" /><br>Bootstrap</td>
+  </tr>
+  <tr>
+    <td align="center" style="border: 2px solid red; padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material UI" /><br>Material UI</td>
+    <td align="center" style="border: 2px solid red; padding: 10px;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" /><br>GitHub</td>
+    <td align="center" style="border: 2px solid red; padding: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" /><br>C</td>
+    <td align="center" style="border: 2px solid red; padding: 10px;"><img src="https://w7.pngwing.com/pngs/935/1018/png-transparent-jira-cloud-macos-bigsur-icon-thumbnail.png" alt="JIRA" width="62" /><br>JIRA</td>
+    <td align="center" style="border: 2px solid red; padding: 10px;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="62" /><br>Prettier</td>
+    <td align="center" style="border: 2px solid red; padding: 10px;"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" /><br>Tailwind</td>
+    <td align="center" style="border: 2px solid red; padding: 10px;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" /><br>Postman</td>
+    <td align="center" style="border: 2px solid red; padding: 10px;"><img src="http://jwt.io/img/icon.svg" alt="JWT" width="62" /><br>JWT</td>
+    <td align="center" style="border: 2px solid red; padding: 10px;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" /><br>Figma</td>
+  </tr>
+</table>
 <table align="center">
   <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" /><br>React</td>
