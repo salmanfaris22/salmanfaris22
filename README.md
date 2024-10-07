@@ -2,18 +2,27 @@
 
 # Hi 👋, I'm Salman Faris
 
-### A passionate FullStack developer
+### A Passionate Full Stack Developer with a Love for Backend Magic! ✨
 
-### 🔥 &nbsp; My Stats:
+### 🔥 &nbsp; My Journey:
 
-- 🔭 I’m currently working on **E-Commerce**
-- 🌱 I’m currently learning **React**
-- 👨‍💻 All of my projects are available at [https://salmanfaris22.github.io/salmanfaris/](https://salmanfaris22.github.io/salmanfaris/)
-- 💬 Ask me about **MERN, Golang**
-- 📫 How to reach me: **salmanfariskalm@gmail.com**
-- ⚡ Fun fact: **I think I'm funny**
+- 🔭 Currently diving deep into **E-Commerce** development, crafting seamless user experiences.
+- 🌱 On an exciting learning adventure with **React**, enhancing my front-end skills to complement my backend expertise.
+- 👨‍💻 Explore all my projects at [my portfolio](https://salmanfaris22.github.io/salmanfaris/)—where creativity meets code!
+- 💬 Let's chat about **MERN stack** and **Golang**—my go-to technologies for building robust applications.
+- 📫 Reach out to me at: **salmanfariskalm@gmail.com**—I'm always up for a good conversation!
+- ⚡ Fun fact: **I think I'm funny**, and I promise my code is less of a joke than I am!
 
-### 🛠️ Technologies & Tools:
+### 🛠️ Technologies & Tools I Work With:
+
+| Frontend Technologies | Backend Technologies | Tools |
+|----------------------|---------------------|-------|
+| ![React](https://techstack-generator.vercel.app/react-icon.svg) **React** | ![Golang](https://miro.medium.com/v2/resize:fit:500/1*lSUb1T4YW1td0UskwsGZ1w.gif) **Golang** | ![Git](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png) **Git** |
+| ![JavaScript](https://techstack-generator.vercel.app/js-icon.svg) **JavaScript** | ![Gin](https://raw.githubusercontent.com/gin-gonic/logo/master/color.png) **Gin Framework** | ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) **Postman** |
+| ![HTML5](https://skillicons.dev/icons?i=html) **HTML5** | | ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) **Figma** |
+| ![CSS](https://skillicons.dev/icons?i=css) **CSS** | | ![JIRA](https://w7.pngwing.com/pngs/935/1018/png-transparent-jira-cloud-macos-bigsur-icon-thumbnail.png) **JIRA** |
+| ![Tailwind](https://skillicons.dev/icons?i=tailwind) **Tailwind CSS** | | ![Prettier](https://techstack-generator.vercel.app/prettier-icon.svg) **Prettier** |
+
 
 <table align="center">
   <tr>
