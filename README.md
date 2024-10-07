@@ -7,7 +7,7 @@
 ### 🔥 &nbsp; My Journey:
 
 - 🔭 Currently diving deep into **E-Commerce** development, crafting seamless user experiences.
-- 🌱 On an exciting learning adventure with **React**, enhancing my front-end skills to complement my backend expertise.
+- 🌱 On an exciting learning adventure with **Golang**, enhancing my front-end skills to complement my backend expertise.
 - 👨‍💻 Explore all my projects at [my portfolio](https://salmanfaris22.github.io/salmanfaris/)—where creativity meets code!
 - 💬 Let's chat about **MERN stack** and **Golang**—my go-to technologies for building robust applications.
 - 📫 Reach out to me at: **salmanfariskalm@gmail.com**—I'm always up for a good conversation!
