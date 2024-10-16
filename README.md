@@ -1,6 +1,6 @@
 # Hi 👋, I'm Salman Faris
 <img src="img.webp" alt="Description" class="inline-image">
-
+https://github.com/salmanfaris22/salmanfaris22/blob/main/README.md
 
 
 
@@ -57,18 +57,14 @@
 
 ### 🤝 Connect with me:
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=salmanfaris22&show_icons=true&locale=en" alt="salmanfaris22" width="33%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanfaris22&" alt="salmanfaris22" width="33%" />
-    <img src="https://leetcard.jacoblin.cool/salman567633800?font=patrick_hand" alt="LeetCode Stats" width="33%" />
-</p> 
+
 
 ### 📈 GitHub Stats:
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=salmanfaris22&show_icons=true&locale=en" alt="salmanfaris22" height="200" width="200" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanfaris22&" alt="salmanfaris22" height="200" width="200" />
-    <img src="https://leetcard.jacoblin.cool/salman567633800?font=patrick_hand" alt="LeetCode Stats" height="200" width="200" />
-</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=salmanfaris22&show_icons=true&locale=en" alt="salmanfaris22" width="33%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanfaris22&" alt="salmanfaris22" width="33%" />
+    <img src="https://leetcard.jacoblin.cool/salman567633800?font=patrick_hand" alt="LeetCode Stats" width="33%" />
+</p> 
 
