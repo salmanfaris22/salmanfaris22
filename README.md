@@ -30,6 +30,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" /><br>Bootstrap</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/15127678?s=48&v=4" alt="Figma" width="40" /><br>GORM</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material UI" /><br>Material UI</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" /><br>GitHub</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" /><br>C</td>
