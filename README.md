@@ -1,6 +1,7 @@
- <img src="img.webp" alt="Description" class="inline-image">
-
 # Hi 👋, I'm Salman Faris
+<img src="img.webp" alt="Description" class="inline-image">
+
+
 
 
 ### A Passionate Full Stack Developer with a Love for Backend Magic! ✨
