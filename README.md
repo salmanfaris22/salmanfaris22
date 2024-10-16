@@ -1,6 +1,6 @@
 # Hi 👋, I'm Salman Faris
 <img src="img.webp" alt="Description" class="inline-image">
-https://github.com/salmanfaris22/salmanfaris22/blob/main/README.md
+
 
 
 
