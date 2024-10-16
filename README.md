@@ -44,7 +44,8 @@
   <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" /><br>Figma</td>
       <td align="center"><img src="https://camo.githubusercontent.com/8ac99a8f9df10832e35eb2fb7fad603424fa19b103551cdebf76cbae20d9ef0c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573" 
       alt="Figma" width="40" /><br>PostgreSQL</td>
-     <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" /><br>Git</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" /><br>Git</td>
+     <td align="center"><img src="https://www.chartjs.org/docs/latest/favicon.ico" alt="Git" width="48" /><br>ChartJs</td>
   </tr>
 </table>
 
