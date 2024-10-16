@@ -46,6 +46,7 @@
       alt="Figma" width="40" /><br>PostgreSQL</td>
     <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" /><br>Git</td>
      <td align="center"><img src="https://www.chartjs.org/docs/latest/favicon.ico" alt="Git" width="48" /><br>ChartJs</td>
+        <td align="center"><img src="https://logowik.com/content/uploads/images/react-query1721251933.logowik.com.webp" alt="Git" width="48" /><br>React Query</td>
   </tr>
 </table>
 
