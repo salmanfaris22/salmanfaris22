@@ -67,8 +67,8 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=salmanfaris22&show_icons=true&locale=en" alt="salmanfaris22" width="33%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanfaris22&" alt="salmanfaris22" width="33%" />
-    <img src="https://leetcard.jacoblin.cool/salman567633800?font=patrick_hand" alt="LeetCode Stats" width="33%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=salmanfaris22&show_icons=true&locale=en" alt="salmanfaris22" height="200" width="200" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanfaris22&" alt="salmanfaris22" height="200" width="200" />
+    <img src="https://leetcard.jacoblin.cool/salman567633800?font=patrick_hand" alt="LeetCode Stats" height="200" width="200" />
 </p>
 
