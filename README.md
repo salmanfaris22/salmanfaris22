@@ -48,6 +48,7 @@
      <td align="center"><img src="https://www.chartjs.org/docs/latest/favicon.ico" alt="Git" width="48" /><br>ChartJs</td>
         <td align="center"><img src="https://logowik.com/content/uploads/images/react-query1721251933.logowik.com.webp" alt="Git" width="48" /><br>React Query</td>
             <td align="center"><img src="https://seeklogo.com/images/G/goland-logo-A068661F80-seeklogo.com.png" alt="Git" width="48" /><br>GoLand</td>
+     <td align="center"><img src="https://banner2.cleanpng.com/20180618/opl/aa6n9ogrp.webp" alt="Git" width="48" /><br>NPM</td> 
   </tr>
 </table>
 
