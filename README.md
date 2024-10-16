@@ -57,11 +57,11 @@
 
 ### 🤝 Connect with me:
 
-<p>
-<a href="https://www.linkedin.com/in/salman-faris-50b664272/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/salmanfariz.________/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/salman567633800/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=salmanfaris22&show_icons=true&locale=en" alt="salmanfaris22" width="33%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanfaris22&" alt="salmanfaris22" width="33%" />
+    <img src="https://leetcard.jacoblin.cool/salman567633800?font=patrick_hand" alt="LeetCode Stats" width="33%" />
+</p> 
 
 ### 📈 GitHub Stats:
 
