@@ -24,7 +24,6 @@
     <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="62" /><br>REST API</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux Toolkit" width="62" /><br>Redux Toolkit</td>
     <td align="center"><img src="https://miro.medium.com/v2/resize:fit:500/1*lSUb1T4YW1td0UskwsGZ1w.gif" alt="Golang" width="48" /><br>Golang</td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" /><br>Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" /><br>HTML5</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" /><br>CSS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" /><br>Bootstrap</td>
@@ -39,7 +38,13 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" /><br>Tailwind</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" /><br>Postman</td>
     <td align="center"><img src="http://jwt.io/img/icon.svg" alt="JWT" width="62" /><br>JWT</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" /><br>Figma</td>
+  
+  </tr>
+   <tr>
+  <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" /><br>Figma</td>
+      <td align="center"><img src="https://camo.githubusercontent.com/8ac99a8f9df10832e35eb2fb7fad603424fa19b103551cdebf76cbae20d9ef0c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573" 
+      alt="Figma" width="40" /><br>PostgreSQL</td>
+     <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" /><br>Git</td>
   </tr>
 </table>
 
