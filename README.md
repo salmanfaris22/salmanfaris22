@@ -2,8 +2,6 @@
 <img src="img.webp" alt="Description" class="inline-image">
 
 
-
-
 ### A Passionate Full Stack Developer with a Love for Backend Magic! ✨
 
 ### 🔥 &nbsp; My Journey:
