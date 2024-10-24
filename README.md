@@ -50,6 +50,7 @@
   <td align="center"><img src="https://logowik.com/content/uploads/images/react-query1721251933.logowik.com.webp" alt="Git" width="48" /><br>React Query</td>
   <td align="center"><img src="https://seeklogo.com/images/G/goland-logo-A068661F80-seeklogo.com.png" alt="Git" width="48" /><br>GoLand</td>
   <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" alt="Git" width="48" /><br>N P M</td> 
+       <td align="center"><img src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8J.png" alt="Git" width="48" /><br>TanStack</td> 
   </tr>
 </table>
 
